@@ -1,9 +1,9 @@
 export const SITE = {
   name: "BALAJI ARCHITECT",
   tagline: "Smart Design. Quality Construction.",
-  phone: "+91 98765 43210",
-  email: "info@balajiarchitect.com",
-  address: "Kushinagar, Uttar Pradesh, India",
+  phone: "+91 7238842150",
+  email: "solutionshubhait.com",
+  address: "Mathura, Uttar Pradesh, India",
 } as const;
 
 export const NAV_LINKS = [
